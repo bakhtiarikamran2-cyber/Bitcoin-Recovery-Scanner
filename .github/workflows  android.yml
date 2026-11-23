@@ -1,5 +1,5 @@
 
-name: workflows/android.yml
+name: Build Bitcoin Recovery Scanner APK
 
 on:
   workflow_dispatch:
